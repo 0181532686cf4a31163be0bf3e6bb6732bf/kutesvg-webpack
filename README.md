@@ -1,8 +1,9 @@
 # kutesvg-webpack
 
-## Prerequisites: npm (<https://nodejs.org>)
+## Prerequisites
+`npm` (<https://nodejs.org>)
 
-## Running:
+## Running
 
 `npm install`
 `npm run server`
